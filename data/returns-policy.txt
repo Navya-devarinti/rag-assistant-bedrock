@@ -1,0 +1,19 @@
+Maple & Main — Returns Policy
+================================
+
+This is a fictional sample document written for the RAG assistant demo.
+Maple & Main is an invented online store.
+
+You may return most items within 30 days of delivery for a full refund.
+Items must be unused and in their original packaging.
+
+Return shipping is free. Print a return label from your order page and drop
+the package at any post office. Refunds are issued to your original payment
+method within 5 to 7 business days after we receive the return.
+
+The following items are final sale and cannot be returned: gift cards,
+personalized items, and clearance items marked "final sale" at checkout.
+
+If an item arrives damaged or defective, contact us within 14 days and we
+will send a replacement or a refund, including return shipping, at no cost
+to you.
